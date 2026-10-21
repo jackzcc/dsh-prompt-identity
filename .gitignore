@@ -1,0 +1,11 @@
+# Dependencies and build output
+node_modules/
+*.tgz
+
+# Local state and session dumps
+state.json
+tools/session.jsonl
+tools/event.json
+tools/system-prompt.txt
+tools/prompt-sections.json
+*.log

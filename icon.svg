@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Prompt identity">
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#22303f"/>
+  <rect x="15" y="20" width="34" height="24" rx="4" fill="none" stroke="#eaf2f8" stroke-width="2.5"/>
+  <circle cx="24" cy="30" r="3.4" fill="#eaf2f8"/>
+  <rect x="30" y="27" width="13" height="2.4" rx="1.2" fill="#eaf2f8"/>
+  <rect x="30" y="32" width="9" height="2.4" rx="1.2" fill="#8fb6cf"/>
+  <rect x="20" y="37" width="22" height="2.4" rx="1.2" fill="#8fb6cf"/>
+  <path d="M12 50 L50 14" stroke="#5ad1c0" stroke-width="4.5" stroke-linecap="round"/>
+</svg>

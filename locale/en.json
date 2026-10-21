@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Prompt Identity",
+    "description": "Hide runtime identity in the system prompt; toggle it in Settings → Plugins."
+  }
+}
