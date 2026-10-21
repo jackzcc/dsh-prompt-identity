@@ -14,7 +14,7 @@ model receives, with one manual switch in the Web UI.
 ## Install
 
 ```powershell
-git clone https://github.com/jackcc/dsh-prompt-identity.git
+git clone https://github.com/jackzcc/dsh-prompt-identity.git
 ```
 
 Point the bundle installer at the clone directory (Plugin Manager → install from a
