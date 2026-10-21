@@ -13,13 +13,16 @@ model receives, with one manual switch in the Web UI.
 
 ## Install
 
-Clone this repository and point the bundle installer at the clone directory
-(Plugin Manager → install from a local directory, or `install_bundle` with the
-absolute path). There is no build step, no registry, and no dependency: the
-package is plain JavaScript plus Node built-ins.
+```powershell
+git clone https://github.com/jackzilongguo/dsh-prompt-identity.git
+```
+
+Point the bundle installer at the clone directory (Plugin Manager → install from a
+local directory, or `install_bundle` with the absolute path). There is no build
+step, no registry, and no dependency: the package is plain JavaScript plus Node
+built-ins.
 
 ```powershell
-git clone <this repository>
 node --check index.js
 node test/transform.test.mjs
 ```
